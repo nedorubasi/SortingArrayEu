@@ -1,0 +1,8 @@
+C:\Projects\SortingArray\SortingArray\bin\Debug\SortingArray.exe
+C:\Projects\SortingArray\SortingArray\bin\Debug\SortingArray.pdb
+C:\Projects\SortingArray\SortingArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.frmSortingArray.resources
+C:\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.Properties.Resources.resources
+C:\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.csproj.GenerateResource.Cache
+C:\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.exe
+C:\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.pdb

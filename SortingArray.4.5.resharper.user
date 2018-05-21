@@ -1,0 +1,72 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.Designer.cs" caret="3287" fromTop="29" />
+      <File id="02F7015C-82F7-49C2-AA67-3AAC9C661A43/f:AuthoringTests.txt" caret="0" fromTop="0" />
+      <File id="02F7015C-82F7-49C2-AA67-3AAC9C661A43/f:UnitTest1.cs" caret="2616" fromTop="37" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="4986" fromTop="46" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="40" fromTop="2" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="1953" fromTop="33" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="3004" fromTop="39" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="2477" fromTop="27" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="2751" fromTop="30" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="1838" fromTop="39" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="632" fromTop="7" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="4962" fromTop="19" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="4962" fromTop="15" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="40" fromTop="0" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="4962" fromTop="19" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.Designer.cs" caret="3287" fromTop="22" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.Designer.cs" caret="3287" fromTop="19" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.Designer.cs" caret="3287" fromTop="26" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.Designer.cs" caret="3461" fromTop="26" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.Designer.cs" caret="3287" fromTop="19" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.Designer.cs" caret="3287" fromTop="29" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="266" fromTop="13" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="436" fromTop="18" />
+      <File id="02F7015C-82F7-49C2-AA67-3AAC9C661A43/f:UnitTest1.cs" caret="3031" fromTop="44" />
+      <File id="02F7015C-82F7-49C2-AA67-3AAC9C661A43/f:UnitTest1.cs" caret="2208" fromTop="31" />
+      <File id="02F7015C-82F7-49C2-AA67-3AAC9C661A43/f:UnitTest1.cs" caret="3072" fromTop="46" />
+      <File id="02F7015C-82F7-49C2-AA67-3AAC9C661A43/f:UnitTest1.cs" caret="2616" fromTop="37" />
+      <File id="C6F59982-1C92-41CA-AD61-D547D8685189/f:Form1.cs" caret="4986" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="0" />
+      <Item value="_aReturn" priority="0" />
+      <Item value="prop" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="arrl_s" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="_i_s" priority="0" />
+      <Item value="_i_r" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

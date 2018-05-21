@@ -1,0 +1,7 @@
+C:\Projects\Sorting_Array\Test_Sorting_Array\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Sorting_Array\Test_Sorting_Array\bin\Release\Test_Sorting_Array.dll
+C:\Projects\Sorting_Array\Test_Sorting_Array\bin\Release\Test_Sorting_Array.pdb
+C:\Projects\Sorting_Array\Test_Sorting_Array\bin\Release\SortingArray.exe
+C:\Projects\Sorting_Array\Test_Sorting_Array\bin\Release\SortingArray.pdb
+C:\Projects\Sorting_Array\Test_Sorting_Array\obj\Release\Test_Sorting_Array.dll
+C:\Projects\Sorting_Array\Test_Sorting_Array\obj\Release\Test_Sorting_Array.pdb

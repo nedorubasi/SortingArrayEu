@@ -1,0 +1,16 @@
+C:\Projects\SortingArray\SortingArray\bin\Release\SortingArray.exe
+C:\Projects\SortingArray\SortingArray\bin\Release\SortingArray.pdb
+C:\Projects\SortingArray\SortingArray\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SortingArray\SortingArray\obj\Release\SortingArray.frmSortingArray.resources
+C:\Projects\SortingArray\SortingArray\obj\Release\SortingArray.Properties.Resources.resources
+C:\Projects\SortingArray\SortingArray\obj\Release\SortingArray.csproj.GenerateResource.Cache
+C:\Projects\SortingArray\SortingArray\obj\Release\SortingArray.exe
+C:\Projects\SortingArray\SortingArray\obj\Release\SortingArray.pdb
+C:\Projects\Sorting_Array\SortingArray\obj\Release\SortingArray.exe
+C:\Projects\Sorting_Array\SortingArray\obj\Release\SortingArray.pdb
+C:\Projects\Sorting_Array\SortingArray\bin\Release\SortingArray.exe
+C:\Projects\Sorting_Array\SortingArray\bin\Release\SortingArray.pdb
+C:\Projects\Sorting_Array\SortingArray\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Sorting_Array\SortingArray\obj\Release\SortingArray.frmSortingArray.resources
+C:\Projects\Sorting_Array\SortingArray\obj\Release\SortingArray.Properties.Resources.resources
+C:\Projects\Sorting_Array\SortingArray\obj\Release\SortingArray.csproj.GenerateResource.Cache
